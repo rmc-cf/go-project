@@ -1,21 +1,4 @@
-项目结构调整
-bash
-/myapi
-├── cmd/
-│   └── api/
-│       ├── main.go           主入口
-│       └── routes/           路由注册模块
-│           └── user.go       用户实体的路由注册
-├── internal/
-│   ├── handler/              保持不变
-│   ├── service/              保持不变
-│   ├── repository/           保持不变
-│   └── model/                保持不变
-├── pkg/
-│   ├── config/               配置模块
-│   └── logger/               日志模块
-└── configs/
-    └── config.yaml
+![Uploading image.png…]()
 
 关键设计说明
  (1) 按实体分离路由
