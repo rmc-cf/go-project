@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![1](https://github.com/user-attachments/assets/86556c4e-53be-4c30-ac46-049adc447d61)
 
 关键设计说明
  (1) 按实体分离路由
